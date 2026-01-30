@@ -1,0 +1,29 @@
+{
+    "id": "comm_dracula",
+    "name": "Vampire Night",
+    "author": "CountCode",
+    "colors": {
+        "bgPrimary": "#282a36",
+        "textPrimary": "#f8f8f2",
+        "accentColor": "#ff79c6",
+        "bgSecondary": "#44475a",
+        "borderColor": "#6272a4",
+        "textSecondary": "#bd93f9",
+        "bgHeader": "#44475a",
+        "bgSidebar": "#44475a",
+        "bgActionbar": "#44475a",
+        "bgTertiary": "#44475a",
+        "successColor": "#4caf50",
+        "dangerColor": "#f44336"
+    },
+    "background": {
+        "image": null,
+        "position": "centered",
+        "scale": "crop",
+        "repeat": "no-repeat"
+    },
+    "cardEffects": {
+        "glassEffect": true
+    },
+    "cornerStyle": "rounded"
+}
