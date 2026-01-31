@@ -1,0 +1,26 @@
+{
+  "id": "spyro_1049462243332460604",
+  "name": "Spyro",
+  "colors": {
+    "bgPrimary": "#5b176d",
+    "textPrimary": "#ffffff",
+    "textSecondary": "#cccccc",
+    "accentColor": "#c994ff",
+    "bgSecondary": "#45045d",
+    "borderColor": "#be8aff",
+    "bgTertiary": "#45045d",
+    "successColor": "#4caf50",
+    "dangerColor": "#362c87"
+  },
+  "background": {
+    "image": "https://cdn.discordapp.com/attachments/1467303039051366640/1467303040238485627/background.webp?ex=697fe3f1&is=697e9271&hm=59474f81beb0c7e0553fc84381180cd9e5ee2f4ed86ac9fa9eb182298ab8b510&",
+    "position": "centered",
+    "scale": "crop",
+    "repeat": "no-repeat"
+  },
+  "cardEffects": {
+    "glassEffect": true
+  },
+  "cornerStyle": "rounded",
+  "author": "Bro"
+}
