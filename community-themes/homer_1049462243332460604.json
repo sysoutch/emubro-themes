@@ -1,0 +1,28 @@
+{
+  "id": "homer_1049462243332460604",
+  "name": "homer",
+  "colors": {
+    "bgPrimary": "#1e1e1e",
+    "textPrimary": "#ffffff",
+    "textSecondary": "#cccccc",
+    "accentColor": "#66ccff",
+    "bgSecondary": "#2d2d2d",
+    "borderColor": "#444444",
+    "bgHeader": "#2d2d2d",
+    "bgSidebar": "#333333",
+    "bgActionbar": "#252525",
+    "bgTertiary": "#333333",
+    "successColor": "#4caf50",
+    "dangerColor": "#f44336"
+  },
+  "background": {
+    "image": "https://cdn.discordapp.com/attachments/1467318004499873825/1467318004931891417/background.gif?ex=697ff1e1&is=697ea061&hm=a941012476a3192ab711c700db5cde58c77d376959b7de8993970cb4d08f32d3&",
+    "position": "centered",
+    "scale": "crop",
+    "repeat": "no-repeat"
+  },
+  "cardEffects": {
+    "glassEffect": true
+  },
+  "author": "Bro"
+}
