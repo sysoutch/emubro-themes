@@ -1,0 +1,28 @@
+{
+  "id": "the_matrix_1049462243332460604",
+  "name": "The Matrix",
+  "colors": {
+    "bgPrimary": "#000000",
+    "textPrimary": "#00ff41",
+    "textSecondary": "#008f11",
+    "accentColor": "#008f11",
+    "bgSecondary": "#0d0d0d",
+    "borderColor": "#003b00",
+    "bgHeader": "#0d0d0d",
+    "bgSidebar": "#0d0d0d",
+    "bgActionbar": "#0d0d0d",
+    "bgTertiary": "#0d0d0d",
+    "successColor": "#4caf50",
+    "dangerColor": "#f44336"
+  },
+  "background": {
+    "image": "https://cdn.discordapp.com/attachments/1467327844932911127/1467327845486559355/background.gif?ex=697ffb0b&is=697ea98b&hm=5b78c3b14d3945fb42557ef43dfae680877db605a391cf5502d7b32b88077bc6&",
+    "position": "fixed",
+    "scale": "zoom",
+    "repeat": "repeat"
+  },
+  "cardEffects": {
+    "glassEffect": true
+  },
+  "author": "Bro"
+}
